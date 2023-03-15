@@ -1,0 +1,319 @@
+        <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml">NYTimes.com Home Page (U.S.)</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>World</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">World</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml">Africa</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml">Americas</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml">Asia Pacific</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml">Europe</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml">Middle East</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>U.S.</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml">U.S.</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Education.xml">Education</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml">Politics</a>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml">The Upshot</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml">N.Y./Region</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>Business</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml">Business</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml">Energy &amp; Environment</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml">Small Business</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml">Economy</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml">DealBook</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml">Media &amp; Advertising</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml">Your Money</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>Technology</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="	https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">Technology</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml">Personal Tech</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>Sports</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml">Sports</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml">Baseball</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml">College Basketball</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml">College Football</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml">Golf</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml">Hockey</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml">Pro-Basketball</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml">Pro-Football</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml">Soccer</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml">Tennis</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>Science</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml">Science</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml">Environment</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Space.xml">Space &amp; Cosmos</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>Health</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml">Health</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Well.xml">Well Blog</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="css-1qj0uia">
+                            <h2>Culture &amp; Lifestyle</h2>
+                            <ul>
+                                <li>
+                                    <h3>Arts</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml">Arts</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml">Art &amp; Design</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Books.xml">Books</a>
+                                            <ul>
+                                                <li>
+                                                    <a href="https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml">Sunday Book Review</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml">Dance</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml">Movies</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Music.xml">Music</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Television.xml">Television</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml">Theater</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>Style</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml">Fashion &amp; Style</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml">Dining &amp; Wine</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml">Love</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml">T Magazine</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://www.nytimes.com/services/xml/rss/nyt/Travel.xml">Travel</a>
+                                    </h3>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="css-1qj0uia">
+                            <h2>Marketplace</h2>
+                            <ul>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml">Jobs</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml">Real Estate</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml">Autos</a>
+                                    </h3>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="css-1qj0uia">
+                            <h2>Other</h2>
+                            <ul>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml">Lens Blog</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml">Obituaries</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://content.api.nytimes.com/svc/news/v3/all/recent.rss">Times Wire</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml">Most E-Mailed</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml">Most Shared</a>
+                                    </h3>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml">Most Viewed</a>
+                                    </h3>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="css-1qj0uia">
+                            <h2>Opinion</h2>
+                            <ul>
+                                <li>
+                                    <h3> Columnists</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml">Charles M. Blow</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/jamelle-bouie/rss.xml">Jamelle Bouie</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml">David Brooks</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml">Frank Bruni</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml">Gail Collins</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml">Ross Douthat</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml">Maureen Dowd</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml">Thomas L. Friedman</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/michelle-goldberg/rss.xml">Michelle Goldberg</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml">Ezra Klein</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml">Nicholas D. Kristof</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml">Paul Krugman</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/farhad-manjoo/rss.xml">Farhad Manjoo</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/bret-stephens/rss.xml">Bret Stephens</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <h3>
+                                        <a href="https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"
